@@ -12,3 +12,7 @@ Escritura (Write): Representado por la letra "w". Permite modificar o sobrescrib
 Ejecución (Execute): Representado por la letra "x". Permite ejecutar un archivo o acceder a un directorio. Para un archivo ejecutable, este permiso indica que se puede ejecutar como un programa.
 
 ![image](https://github.com/NazarenaAranda15/IngenieriaSistemas-PracticasDevOps/assets/135595550/9c6758fc-7b5e-432b-9946-4e7e2228bb4c)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/NazarenaAranda15/IngenieriaSistemas-PracticasDevOps/assets/135595550/e7b40a35-f3f9-4370-9817-faef8c349fc1)
