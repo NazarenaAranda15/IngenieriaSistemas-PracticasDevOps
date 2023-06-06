@@ -1,8 +1,3 @@
-# Permisos
-
-
-
-
 # Permisos comunes en Shell:
 
 Lectura (Read): Representado por la letra "r". Permite leer el contenido de un archivo o listar el contenido de un directorio.
