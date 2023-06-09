@@ -1,13 +1,13 @@
 # Redirección de salida estándar (stdout):
 
-- ">" redirige la salida de un comando hacia un archivo, sobrescribiendo su contenido si el archivo ya existe.
+#- ">" redirige la salida de un comando hacia un archivo, sobrescribiendo su contenido si el archivo ya existe.
 
 ## Ejemplo:
 
 ### ls > archivos.txt 
 Escribirá la lista de archivos y directorios en el archivo "archivos.txt".
 
-- ">>" redirige la salida de un comando hacia un archivo, pero agrega al final del archivo en lugar de sobrescribirlo.
+# ">>" redirige la salida de un comando hacia un archivo, pero agrega al final del archivo en lugar de sobrescribirlo.
 
 ## Ejemplo:
 
