@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < Numeros
+sort < Numeros.txt

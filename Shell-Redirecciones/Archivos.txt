@@ -1,7 +1,10 @@
-Archivos
+Archivo2.txt
+Archivos.txt
 CaritaRara
 Escribir_Lista
 HolaMundo
+Mostrar_Contenido
+Mostrar_ContenidoDe_2Archivos
 Mostrar_NumerosOrdenados
-Numeros
+Numeros.txt
 README.md
