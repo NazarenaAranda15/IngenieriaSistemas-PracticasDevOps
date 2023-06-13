@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Hola, bien y vos?" >> "Hola.txt"
