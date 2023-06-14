@@ -1,0 +1,3 @@
+#!/bin/bash
+nombre="Naza"
+echo "Hola $nombre"
